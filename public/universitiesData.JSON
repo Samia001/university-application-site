@@ -1,0 +1,140 @@
+[
+        {       "key":"h346", 
+                "name":"Harvard University",
+                "country":"United States",
+                "globalScore":100,
+                "ranking":1,
+                "enrollment":21261,
+                "applicationFee":9065,
+                "img":"https://media.beam.usnews.com/7a/65/a7d7d3974852826624b3ae37e575/150727harvard-submitted.jpg"
+                
+        },
+
+        {
+                "key":"h343", 
+                 "name":"Massachusetts Institute of Technology",
+                 "country":"United States",
+                 "globalScore":97.9,
+                 "ranking":2,
+                 "enrollment":11276,
+                 "applicationFee":1265,
+                 "img":"https://collegesimply.firebaseapp.com/img/primary/massachusetts-institute-of-technology-166683.jpg"
+         
+        },
+        
+        {                "key":"h340", 
+                        "name":"Stanford University",
+                        "country":"United States",
+                        "globalScore":95.3,
+                        "ranking":3,
+                        "enrollment":16226,       
+                        "applicationFee":1000,
+                        "img":"https://www.timeshighereducation.com/sites/default/files/stanford-university-best-universities-in-the-united-states-2016.jpg"
+                        
+         },
+                        
+                
+         {       "key":"h34666", 
+                 "name":"University of California Berkeley",
+                 "country":"United States",
+                 "globalScore":89.8,
+                 "ranking":4,
+                 "enrollment":39918,
+                 "applicationFee":1165,
+                 "img":"https://news.berkeley.edu/wp-content/uploads/2018/02/campus_doe750.jpg"
+
+        },
+
+        {
+                "key":"h34612", 
+                "name":"University of Oxford",
+                "country":"United Kingdom",
+                "globalScore":87,
+                "ranking":5,
+                "enrollment":35261,
+                "applicationFee":2605,
+                "img":"https://media.beam.usnews.com/37/c8/531e271a4e058feeca43a5ff841f/150727oxford-submitted.jpg"
+
+        },
+
+        {
+                "key":"h36146", 
+                "name":"Columbia University",
+                "country":"United States",
+                "globalScore":86.7,
+                "ranking":6,
+                "enrollment":27384,
+                "applicationFee":5650,
+                "img":"https://www.usnews.com/dims4/USNEWS/d7475d6/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fb9%2F453b3935b513eaa88d5b8d9684bfcc%2Fcolumbia-campus-winter-sayed-almohri-usn%26wr.jpg"
+        },
+
+        {
+                "key":"h77346", 
+                "name":"California Institute of Technology",
+                "country":"United States",
+                "globalScore":86.3,
+                "ranking":7,
+                "enrollment":2238,
+                "applicationFee":1565,
+                "img":"https://media.beam.usnews.com/c7/6c/6309202647e9a255a9c14e2cf0a4/150727caltech-submitted.jpg"
+
+        },
+
+        {
+                "key":"h32246", 
+                "name":"University of Washington",
+                "country":"United States",
+                "globalScore":86,
+                "ranking":8,
+                "enrollment":46258,
+                "applicationFee":3635,
+                "img":"https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/79/2014/09/07150820/campus-at-night-375x250.jpg"
+
+        },
+
+        {
+                "key":"h34629", 
+                "name":"University of Cambridge",
+                "country":"United Kingdom",
+                "globalScore":85.8,
+                "ranking":9,
+                "enrollment":19580,
+                "applicationFee":1465,
+                "img":"https://images.unsplash.com/photo-1605470207062-b72b5cbe2a87?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dW5pdmVyc2l0eSUyMG9mJTIwY2FtYnJpZGdlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+        },
+
+        {
+                "key":"h340146", 
+                "name":"Johns Hopkins University",
+                "country":"United States",
+                "globalScore":85.1,
+                "ranking":10,
+                "enrollment":16432,
+                "applicationFee":2667,
+                "img":"https://media.beam.usnews.com/81/49/53c0147f402885ea878d7bfe7091/160624-johns-hopkins-university-submitted.jpg"
+        },
+
+        {
+                "key":"h346ee", 
+                "name":"Princeton University",
+                "country":"United States",
+                "globalScore":85,
+                "ranking":11,
+                "enrollment":18091,
+                "applicationFee":3825,
+                "img":"https://media.beam.usnews.com/0a/ce/eff2ecea4b5fabfcc92bafc54f14/160624-princeton-submitted.jpg"
+        },
+
+        {
+                "key":"h3rr46", 
+                "name":"Yale University",
+                "country":"United States",
+                "globalScore":85,
+                "ranking":12,
+                "enrollment":12910,
+                "applicationFee":1269,
+                "img":"https://media.beam.usnews.com/2e/4e/943c67ee4a8695ed4e16b6c5c8da/140930-yale-submitted.jpg"
+        
+        }
+
+]
